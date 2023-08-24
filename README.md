@@ -123,33 +123,3 @@ Whether it's through simplifying access to essential resources or establishing a
   <img width="12" />
   <img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="redis logo"  />
 </div>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h2 align="left">Our Stats :</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devenlia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=devenlia&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devenlia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="200" alt="languages graph"  />
-</div>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h2 align="left">And here is Snake</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/jannisdev/jannisdev/output/snake.svg" alt="Snake animation" />
-
-###
