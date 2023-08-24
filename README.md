@@ -30,11 +30,7 @@ Looking forward, Devenlia has plans to redefine corporate internal communication
 <br><br>
 At Devenlia, we're creating more than just software. We're building tools that propel businesses towards modernity, equipping them with the tech they need to level up.</p>
 
-###
-
-<p align="left"></p>
-
-###
+#
 
 <h2 align="left">Our Vision</h2>
 
@@ -46,11 +42,7 @@ We seek to be the propellant that helps businesses break free from the constrain
 <br><br>
 Whether it's through simplifying access to essential resources or establishing a robust platform capable of nurturing seamless communication and collaboration, our ultimate goal is to see every business we work with flourish in a digitally integrated workspace.</p>
 
-###
-
-<p align="left"></p>
-
-###
+#
 
 <h2 align="left">Technologies</h2>
 
