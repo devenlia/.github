@@ -3,13 +3,15 @@
 ###
 
 <div align="right">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="https://discord.gg/aUaveXmsWF" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Join&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
 </div>
 
 ###
 
 <div align="right">
-  <img src="https://profile-counter.glitch.me/jannisdev/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/devenlia/count.svg?"  />
 </div>
 
 ###
@@ -38,7 +40,11 @@ At Devenlia, we're creating more than just software. We're building tools that p
 
 ###
 
-<p align="left">Our vision is to aid businesses in enhancing their connectivity. With our software solutions, we hope to boost collaboration and efficiency within organizations while decreasing operating costs.</p>
+<p align="left">At Devenlia, our vision is to drive businesses into the future through the power of modern software. We believe that the right technological tools can transform operations, maximize efficiency, and construct an environment that fosters growth.
+<br><br>
+We seek to be the propellant that helps businesses break free from the constraints of outdated systems and processes. By providing tailored software solutions that meet the unique needs of each organization, we aim to enable businesses to excel in more ways than one. 
+<br><br>
+Whether it's through simplifying access to essential resources or establishing a robust platform capable of nurturing seamless communication and collaboration, our ultimate goal is to see every business we work with flourish in a digitally integrated workspace.</p>
 
 ###
 
@@ -129,9 +135,9 @@ At Devenlia, we're creating more than just software. We're building tools that p
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jannisdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=jannisdev&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jannisdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=devenlia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=devenlia&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devenlia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
