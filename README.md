@@ -1,4 +1,4 @@
-<img align="left" height="150" src="https://raw.githubusercontent.com/devenlia/.github/9a882c67957e4ad1f70fd795f5d9e3ec565755c6/assets/icon.png"  />
+<img align="left" height="150" src="https://raw.githubusercontent.com/devenlia/.github/main/assets/Logo_600x200_transparent.png"  />
 
 ###
 
