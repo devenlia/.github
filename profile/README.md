@@ -1,6 +1,6 @@
 # Devenlia  
 
-![Devenlia Logo](https://raw.githubusercontent.com/devenlia/.github/9a882c67957e4ad1f70fd795f5d9e3ec565755c6/assets/icon.png)
+![Devenlia Logo](https://raw.githubusercontent.com/devenlia/.github/DVL-Logo_Text_Color.png)
 
 ---
 
